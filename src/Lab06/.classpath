@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lab06_Linglong_HU/src"/>
+	<classpathentry kind="src" path="Lab06_Yanbing_Luo/src"/>
+	<classpathentry kind="src" path="Lab06-GaoleDai/src"/>
+	<classpathentry kind="src" path="Lab06-YixinShen/src"/>
+	<classpathentry kind="output" path="Lab06-GaoleDai/bin"/>
+</classpath>
